@@ -97,9 +97,10 @@ python client.py    # Terminal 2
 
 ```
 C:\AI Club\
-├── server.py     # MCP Tool Server
-├── client.py     # LLM Client
-└── README.md     # This file
+├── server.py          # MCP Tool Server
+├── client.py          # LLM Client
+├── requirements.txt   # Dependencies
+└── README.md          # This file
 ```
 
 ## 🎓 Achievements
