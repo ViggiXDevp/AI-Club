@@ -1,0 +1,10 @@
+# No external dependencies required
+# Pure Python standard library only
+
+# MCP Server & Client uses:
+# - json (stdlib)
+# - sys (stdlib) 
+# - subprocess (optional, stdlib)
+
+# To install: pip install -r requirements.txt
+# Result: No packages installed (100% self-contained)
